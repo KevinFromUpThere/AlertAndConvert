@@ -1,0 +1,23 @@
+C:\Documents and Settings\Kevin\My Documents\Visual Studio 2008\Projects\Alert And Convert\Alert And Convert\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Kevin\My Documents\Visual Studio 2008\Projects\Alert And Convert\Alert And Convert\obj\Debug\Alert_And_Convert.MainForm.resources
+C:\Documents and Settings\Kevin\My Documents\Visual Studio 2008\Projects\Alert And Convert\Alert And Convert\obj\Debug\Alert_And_Convert.Resources.resources
+C:\Documents and Settings\Kevin\My Documents\Visual Studio 2008\Projects\Alert And Convert\Alert And Convert\obj\Debug\Alert And Convert.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Kevin\My Documents\Visual Studio 2008\Projects\Alert And Convert\Alert And Convert\bin\Debug\Alert And Convert.exe
+C:\Documents and Settings\Kevin\My Documents\Visual Studio 2008\Projects\Alert And Convert\Alert And Convert\bin\Debug\Alert And Convert.pdb
+C:\Documents and Settings\Kevin\My Documents\Visual Studio 2008\Projects\Alert And Convert\Alert And Convert\bin\Debug\Alert And Convert.xml
+C:\Documents and Settings\Kevin\My Documents\Visual Studio 2008\Projects\Alert And Convert\Alert And Convert\obj\Debug\Alert And Convert.exe
+C:\Documents and Settings\Kevin\My Documents\Visual Studio 2008\Projects\Alert And Convert\Alert And Convert\obj\Debug\Alert And Convert.xml
+C:\Documents and Settings\Kevin\My Documents\Visual Studio 2008\Projects\Alert And Convert\Alert And Convert\obj\Debug\Alert And Convert.pdb
+C:\Documents and Settings\Kevin\My Documents\Visual Studio 2008\Projects\Alert And Convert\Alert And Convert\obj\Debug\Alert_And_Convert.frmListFiles.resources
+C:\Documents and Settings\Kevin\My Documents\Visual Studio 2008\Projects\Alert And Convert\Alert And Convert\bin\Debug\Alert And Convert.exe.config
+C:\Documents and Settings\Kevin\My Documents\Visual Studio 2008\Projects\Alert And Convert\Alert And Convert\bin\Debug\Yedda.Twitter.dll
+C:\Documents and Settings\Kevin\My Documents\Visual Studio 2008\Projects\Alert And Convert\Alert And Convert\bin\Debug\Yedda.Twitter.pdb
+C:\Documents and Settings\Kevin\My Documents\Visual Studio 2008\Projects\Alert And Convert\Alert And Convert\bin\Debug\Alert And Convert.exe.manifest
+C:\Documents and Settings\Kevin\My Documents\Visual Studio 2008\Projects\Alert And Convert\Alert And Convert\bin\Debug\Alert And Convert.application
+C:\Documents and Settings\Kevin\My Documents\Visual Studio 2008\Projects\Alert And Convert\Alert And Convert\obj\Debug\Alert And Convert.exe.manifest
+C:\Documents and Settings\Kevin\My Documents\Visual Studio 2008\Projects\Alert And Convert\Alert And Convert\obj\Debug\Alert And Convert.application
+C:\Documents and Settings\Kevin\My Documents\Visual Studio 2008\Projects\Alert And Convert\Alert And Convert\obj\Debug\Alert_And_Convert.frmTwitterDetails.resources
+C:\Documents and Settings\Kevin\My Documents\Visual Studio 2008\Projects\Alert And Convert\Alert And Convert\obj\Debug\Alert_And_Convert.frmEmailDetails.resources
+C:\Documents and Settings\Kevin\My Documents\Visual Studio 2008\Projects\Alert And Convert\Alert And Convert\obj\Debug\Alert_And_Convert.frmAbout.resources
+C:\Documents and Settings\Kevin\My Documents\Visual Studio 2008\Projects\Alert And Convert\Alert And Convert\obj\Debug\Alert_And_Convert.Scheduler.resources
+C:\Documents and Settings\Kevin\My Documents\Visual Studio 2008\Projects\Alert And Convert\Alert And Convert\bin\Debug\TwitterooCore.dll
